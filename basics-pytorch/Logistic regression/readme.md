@@ -1,4 +1,6 @@
-This code implements a logistic regression model using PyTorch for the MNIST dataset, which consists of grayscale images of handwritten digits (0-9). Here's a breakdown of the code:
+### *This code implements a logistic regression model using PyTorch for the MNIST dataset, which consists of grayscale images of handwritten digits (0-9)*
+
+Here's a breakdown of the code:
 
 1. Importing the necessary libraries: The code starts by importing the required libraries, including torch (PyTorch), torch.nn (neural network module), and torchvision (for dataset handling and transformations).
 
